@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **gnu/linux, pentest, osint and biohacking**
 
-- 📫 Reach me **postcristiano@gmail.com**
+- 📫 Reach me **@postcristiano** on Telegram
 
 <!-- - 📄 Know about my experiences [linkedin](linkedin) -->
 
