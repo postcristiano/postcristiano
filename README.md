@@ -36,8 +36,8 @@
 <h5 align="left">:link: Connect with me:</h5>
 <p align="left">
 
-<a href="https://twitter.com/postcristiano" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/VDNa2MlVC3S5_8czrBSE01ilvmHTMS8NFJie6T9K4USUmnj5ETrf4pngGBPo8dZ3qYw" alt="postcristiano" height="30" width="40" /></a>
 <a href="https://twitter.com/postcristiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="postcristiano" height="30" width="40" /></a>
+<a href="https://pastebin.com/3ZpLj9L4" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/VDNa2MlVC3S5_8czrBSE01ilvmHTMS8NFJie6T9K4USUmnj5ETrf4pngGBPo8dZ3qYw" alt="session#id#05c346a17c7c0a8f2a7b932264ab3a544b67cc4f4e2b7f85853ad13158c0155500" height="30" width="40" /></a>
 <a href="https://discord.gg/postcristiano#2061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="postcristiano#2061" height="30" width="40" /></a>
 </p>
 
